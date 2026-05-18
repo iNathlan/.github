@@ -1,40 +1,42 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260">
   <defs>
-    <linearGradient id="ng1" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="hg1" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#00d4ff"/>
       <stop offset="100%" stop-color="#7c3aed"/>
     </linearGradient>
-    <linearGradient id="ng2" x1="100%" y1="0%" x2="0%" y2="100%">
+    <linearGradient id="hg2" x1="0%" y1="100%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#f97316"/>
       <stop offset="100%" stop-color="#fbbf24"/>
     </linearGradient>
-    <linearGradient id="ng3" x1="0%" y1="100%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#3b82f6"/>
-      <stop offset="100%" stop-color="#00d4ff"/>
-    </linearGradient>
     <filter id="glow">
-      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="softglow">
+      <feGaussianBlur stdDeviation="12" result="b"/>
       <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
   </defs>
-  <rect width="900" height="220" fill="#0d1117"/>
-  <g transform="translate(450,110)" filter="url(#glow)">
-    <g>
-      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="25s" repeatCount="indefinite"/>
-      <ellipse rx="90" ry="28" fill="none" stroke="url(#ng1)" stroke-width="1.5" stroke-dasharray="8 5" opacity="0.5"/>
-    </g>
-    <g>
-      <animateTransform attributeName="transform" type="rotate" from="120" to="480" dur="32s" repeatCount="indefinite"/>
-      <ellipse rx="90" ry="28" fill="none" stroke="url(#ng2)" stroke-width="1.5" stroke-dasharray="8 5" opacity="0.4" transform="rotate(60)"/>
-    </g>
-    <g>
-      <animateTransform attributeName="transform" type="rotate" from="240" to="600" dur="40s" repeatCount="indefinite"/>
-      <ellipse rx="90" ry="28" fill="none" stroke="url(#ng3)" stroke-width="1.5" stroke-dasharray="8 5" opacity="0.35" transform="rotate(-60)"/>
-    </g>
-    <circle r="5" fill="#00d4ff" opacity="0.8">
-      <animate attributeName="opacity" values="0.5;1;0.5" dur="3s" repeatCount="indefinite"/>
+  <rect width="900" height="260" fill="#0d1117"/>
+  <g filter="url(#softglow)">
+    <circle cx="450" cy="80" r="55" fill="none" stroke="url(#hg1)" stroke-width="0.8" opacity="0.2">
+      <animate attributeName="r" values="55;65;55" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;0.4;0.2" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="450" cy="80" r="35" fill="none" stroke="url(#hg2)" stroke-width="0.8" opacity="0.25">
+      <animate attributeName="r" values="35;42;35" dur="4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.25;0.45;0.25" dur="4s" repeatCount="indefinite"/>
     </circle>
   </g>
-  <text x="450" y="105" text-anchor="middle" dominant-baseline="central" font-family="'Inter','Segoe UI',system-ui,sans-serif" font-size="52" font-weight="800" fill="#ffffff" letter-spacing="-1.5">NATHLAN</text>
-  <text x="450" y="140" text-anchor="middle" dominant-baseline="central" font-family="'Inter','Segoe UI',system-ui,sans-serif" font-size="14" font-weight="500" fill="#8b949e" letter-spacing="6">SOLUTIONS</text>
+  <g filter="url(#glow)">
+    <path d="M380 130 L420 55 L450 90 L480 55 L520 130" fill="none" stroke="url(#hg1)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" opacity="0.6"/>
+    <path d="M395 130 L425 70 L450 100 L475 70 L505 130" fill="none" stroke="url(#hg2)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" opacity="0.3"/>
+  </g>
+  <circle cx="450" cy="55" r="3" fill="#00d4ff" opacity="0.9">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+  <text x="450" y="160" text-anchor="middle" dominant-baseline="central" font-family="'Inter','Segoe UI',system-ui,sans-serif" font-size="44" font-weight="800" fill="#ffffff" letter-spacing="2">NATHLAN</text>
+  <text x="450" y="195" text-anchor="middle" dominant-baseline="central" font-family="'Inter','Segoe UI',system-ui,sans-serif" font-size="13" font-weight="500" fill="#8b949e" letter-spacing="8">SOLUTIONS</text>
+  <line x1="350" y1="215" x2="550" y2="215" stroke="url(#hg1)" stroke-width="1" opacity="0.3"/>
+  <text x="450" y="235" text-anchor="middle" font-family="'Inter','Segoe UI',system-ui,sans-serif" font-size="10" fill="#484f58" letter-spacing="4">RESEARCH · ENGINEERING · INDIE JETS</text>
 </svg>
