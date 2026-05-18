@@ -18,7 +18,7 @@
 
 <div align="center">
 
-<h3>WHO WE ARE</h3>
+<h3>✦ WHO WE ARE ✦</h3>
 
 <img src="https://raw.githubusercontent.com/iNathlan/.github/main/profile/windgets/whoami.svg" width="820"/>
 
@@ -28,7 +28,7 @@
 
 <div align="center">
 
-<h3>STATUS</h3>
+<h3>✦ STATUS ✦</h3>
 
 <br>
 <img src="https://raw.githubusercontent.com/iNathlan/.github/main/profile/windgets/status.svg" width="820"/>
@@ -39,7 +39,7 @@
 
 <div align="center">
 
-<h3>TECH STACK</h3>
+<h3>✦ TECH STACK ✦</h3>
 
 <br>
 <img src="https://skillicons.dev/icons?i=react,nextjs,vue,svelte,html,css,tailwind&theme=dark&perline=7"/>
@@ -56,7 +56,7 @@
 
 <div align="center">
 
-<h3>PROJECTS</h3>
+<h3>✦ PROJECTS ✦</h3>
 
 <br>
 <img src="https://raw.githubusercontent.com/iNathlan/.github/main/profile/windgets/projects1.svg" width="820"/>
@@ -77,7 +77,7 @@
 
 <div align="center">
 
-<h3>TEAM</h3>
+<h3>✦ TEAM ✦</h3>
 
 <br>
 <img src="https://raw.githubusercontent.com/iNathlan/.github/main/profile/windgets/team.svg" width="820"/>
@@ -88,7 +88,7 @@
 
 <div align="center">
 
-<h3>CONNECT</h3>
+<h3>✦ CONNECT ✦</h3>
 
 <br>
 <img src="https://raw.githubusercontent.com/iNathlan/.github/main/profile/windgets/connect.svg" width="820"/>
@@ -99,7 +99,7 @@
 
 <div align="center">
 
-<h3>GITHUB STATS</h3>
+<h3>✦ GITHUB STATS ✦</h3>
 
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=iNathlan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=00000000&title_color=00d4ff&text_color=c9d1d9&icon_color=58a6ff&ring_color=00d4ff" width="49%"/>
@@ -113,13 +113,13 @@
 
 <div align="center">
 
-<h3>CONTRIBUTIONS</h3>
+<h3>✦ CONTRIBUTIONS ✦</h3>
 
 <br>
 <img src="https://raw.githubusercontent.com/iNathlan/.github/output/github-contribution-grid-snake-dark.svg" width="96%"/>
 <br><br>
 
-<h3>AWARDS</h3>
+<h3>✦ AWARDS ✦</h3>
 
 <br>
 <img src="https://github-profile-trophy.vercel.app/?username=iNathlan&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10&row=1" width="90%"/>
