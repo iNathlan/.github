@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="820" height="340" viewBox="0 0 820 340">
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="300" viewBox="0 0 820 300">
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&amp;display=swap');
 text { font-family: 'Inter','Segoe UI',system-ui,sans-serif; }
@@ -7,57 +7,56 @@ text { font-family: 'Inter','Segoe UI',system-ui,sans-serif; }
 .team-label { font-size: 9.5px; font-weight: 600; letter-spacing: 1px; }
 .handle { font-size: 10px; fill: #484f58; font-weight: 500; }
 </style>
-<rect width="820" height="340" rx="16" fill="#0d1117"/>
-<rect x="16" y="16" width="185" height="148" rx="14" fill="#161b22"/>
-<clipPath id="ca"><circle cx="108" cy="52" r="28"/></clipPath>
-<image x="80" y="24" width="56" height="56" xlink:href="https://avatars.githubusercontent.com/u/174824991?v=4" clip-path="url(#ca)" preserveAspectRatio="xMidYMid slice"/>
-<text x="108" y="100" text-anchor="middle" class="name" fill="#00d4ff">iakadion</text>
-<text x="108" y="116" text-anchor="middle" class="role">Lead Engineer</text>
-<rect x="68" y="126" width="80" height="16" rx="8" fill="#00d4ff" opacity="0.12"/>
-<text x="108" y="137" text-anchor="middle" class="team-label" fill="#00d4ff">DEVELOPER</text>
-<text x="108" y="154" text-anchor="middle" class="handle">@iakadion</text>
+<rect width="820" height="300" rx="16" fill="#0d1117"/>
 
-<rect x="217" y="16" width="185" height="148" rx="14" fill="#161b22"/>
-<clipPath id="cb"><circle cx="309" cy="52" r="28"/></clipPath>
-<image x="281" y="24" width="56" height="56" xlink:href="https://avatars.githubusercontent.com/u/263045136?v=4" clip-path="url(#cb)" preserveAspectRatio="xMidYMid slice"/>
-<text x="309" y="100" text-anchor="middle" class="name" fill="#7c3aed">wenathlan</text>
-<text x="309" y="116" text-anchor="middle" class="role">Founder &amp; Architect</text>
-<rect x="258" y="126" width="56" height="16" rx="8" fill="#7c3aed" opacity="0.12"/>
-<text x="286" y="137" text-anchor="middle" class="team-label" fill="#7c3aed">DEV</text>
-<rect x="320" y="126" width="56" height="16" rx="8" fill="#7c3aed" opacity="0.12"/>
-<text x="348" y="137" text-anchor="middle" class="team-label" fill="#7c3aed">DESIGN</text>
-<text x="309" y="154" text-anchor="middle" class="handle">@wenathlan</text>
+<!-- Card 1: wenathlan -->
+<rect x="120" y="16" width="185" height="148" rx="14" fill="#161b22"/>
+<circle cx="212.5" cy="52" r="28" fill="#7c3aed" opacity="0.15"/>
+<text x="212.5" y="60" text-anchor="middle" font-size="18" font-weight="700" fill="#7c3aed">WN</text>
+<text x="212.5" y="100" text-anchor="middle" class="name" fill="#7c3aed">wenathlan</text>
+<text x="212.5" y="116" text-anchor="middle" class="role">Founder &amp; Architect</text>
+<rect x="173" y="126" width="56" height="16" rx="8" fill="#7c3aed" opacity="0.12"/>
+<text x="200" y="137" text-anchor="middle" class="team-label" fill="#7c3aed">DEV</text>
+<rect x="234" y="126" width="56" height="16" rx="8" fill="#7c3aed" opacity="0.12"/>
+<text x="261" y="137" text-anchor="middle" class="team-label" fill="#7c3aed">DESIGN</text>
+<text x="212.5" y="154" text-anchor="middle" class="handle">@wenathlan</text>
 
-<rect x="418" y="16" width="185" height="148" rx="14" fill="#161b22"/>
-<clipPath id="cc"><circle cx="510" cy="52" r="28"/></clipPath>
-<image x="482" y="24" width="56" height="56" xlink:href="https://avatars.githubusercontent.com/u/263051146?v=4" clip-path="url(#cc)" preserveAspectRatio="xMidYMid slice"/>
-<text x="510" y="100" text-anchor="middle" class="name" fill="#f97316">aasblor</text>
-<text x="510" y="116" text-anchor="middle" class="role">Backend Developer</text>
-<rect x="470" y="126" width="80" height="16" rx="8" fill="#f97316" opacity="0.12"/>
-<text x="510" y="137" text-anchor="middle" class="team-label" fill="#f97316">DEVELOPER</text>
-<text x="510" y="154" text-anchor="middle" class="handle">@aasblor</text>
+<!-- Card 2: aasblor -->
+<rect x="318" y="16" width="185" height="148" rx="14" fill="#161b22"/>
+<circle cx="410.5" cy="52" r="28" fill="#f97316" opacity="0.15"/>
+<text x="410.5" y="60" text-anchor="middle" font-size="18" font-weight="700" fill="#f97316">AS</text>
+<text x="410.5" y="100" text-anchor="middle" class="name" fill="#f97316">aasblor</text>
+<text x="410.5" y="116" text-anchor="middle" class="role">Backend Developer</text>
+<rect x="370" y="126" width="80" height="16" rx="8" fill="#f97316" opacity="0.12"/>
+<text x="410.5" y="137" text-anchor="middle" class="team-label" fill="#f97316">DEVELOPER</text>
+<text x="410.5" y="154" text-anchor="middle" class="handle">@aasblor</text>
 
-<rect x="619" y="16" width="185" height="148" rx="14" fill="#161b22"/>
-<clipPath id="cd"><circle cx="711" cy="52" r="28"/></clipPath>
-<image x="683" y="24" width="56" height="56" xlink:href="https://avatars.githubusercontent.com/u/263047891?v=4" clip-path="url(#cd)" preserveAspectRatio="xMidYMid slice"/>
-<text x="711" y="100" text-anchor="middle" class="name" fill="#fbbf24">nasblor</text>
-<text x="711" y="116" text-anchor="middle" class="role">Product Designer</text>
-<rect x="663" y="126" width="96" height="16" rx="8" fill="#fbbf24" opacity="0.12"/>
-<text x="711" y="137" text-anchor="middle" class="team-label" fill="#fbbf24">DESIGN PRODUCT</text>
-<text x="711" y="154" text-anchor="middle" class="handle">@nasblor</text>
+<!-- Card 3: nasblor -->
+<rect x="516" y="16" width="185" height="148" rx="14" fill="#161b22"/>
+<circle cx="608.5" cy="52" r="28" fill="#fbbf24" opacity="0.15"/>
+<text x="608.5" y="60" text-anchor="middle" font-size="18" font-weight="700" fill="#fbbf24">NB</text>
+<text x="608.5" y="100" text-anchor="middle" class="name" fill="#fbbf24">nasblor</text>
+<text x="608.5" y="116" text-anchor="middle" class="role">Product Designer</text>
+<rect x="568" y="126" width="96" height="16" rx="8" fill="#fbbf24" opacity="0.12"/>
+<text x="608.5" y="137" text-anchor="middle" class="team-label" fill="#fbbf24">DESIGN PRODUCT</text>
+<text x="608.5" y="154" text-anchor="middle" class="handle">@nasblor</text>
 
-<rect x="16" y="178" width="788" height="146" rx="14" fill="#161b22"/>
-<text x="410" y="210" text-anchor="middle" font-size="13" font-weight="700" letter-spacing="2" fill="#58a6ff">ORG STRUCTURE</text>
-<rect x="56" y="224" width="120" height="36" rx="10" fill="#00d4ff" opacity="0.08" stroke="#00d4ff" stroke-width="0.8"/>
-<text x="116" y="246" text-anchor="middle" font-size="12" font-weight="600" fill="#00d4ff">Developer</text>
-<text x="116" y="285" text-anchor="middle" font-size="10px" fill="#8b949e">iakadion · wenathlan · aasblor</text>
-<rect x="344" y="224" width="132" height="36" rx="10" fill="#fbbf24" opacity="0.08" stroke="#fbbf24" stroke-width="0.8"/>
-<text x="410" y="246" text-anchor="middle" font-size="12" font-weight="600" fill="#fbbf24">Design Product</text>
-<text x="410" y="285" text-anchor="middle" font-size="10px" fill="#8b949e">wenathlan · nasblor</text>
-<rect x="644" y="224" width="100" height="36" rx="10" fill="#7c3aed" opacity="0.08" stroke="#7c3aed" stroke-width="0.8"/>
-<text x="694" y="246" text-anchor="middle" font-size="12" font-weight="600" fill="#7c3aed">Core</text>
-<text x="694" y="285" text-anchor="middle" font-size="10px" fill="#8b949e">wenathlan · iakadion</text>
-<line x1="116" y1="260" x2="116" y2="270" stroke="#00d4ff" stroke-width="0.8" opacity="0.4"/>
-<line x1="410" y1="260" x2="410" y2="270" stroke="#fbbf24" stroke-width="0.8" opacity="0.4"/>
-<line x1="694" y1="260" x2="694" y2="270" stroke="#7c3aed" stroke-width="0.8" opacity="0.4"/>
+<!-- Org Structure -->
+<rect x="16" y="180" width="788" height="104" rx="14" fill="#161b22"/>
+<text x="410" y="208" text-anchor="middle" font-size="13" font-weight="700" letter-spacing="2" fill="#58a6ff">ORG STRUCTURE</text>
+
+<rect x="56" y="218" width="120" height="36" rx="10" fill="#00d4ff" opacity="0.08" stroke="#00d4ff" stroke-width="0.8"/>
+<text x="116" y="240" text-anchor="middle" font-size="12" font-weight="600" fill="#00d4ff">Developer</text>
+<text x="116" y="276" text-anchor="middle" font-size="10px" fill="#8b949e">wenathlan · aasblor</text>
+<line x1="116" y1="254" x2="116" y2="264" stroke="#00d4ff" stroke-width="0.8" opacity="0.4"/>
+
+<rect x="344" y="218" width="132" height="36" rx="10" fill="#fbbf24" opacity="0.08" stroke="#fbbf24" stroke-width="0.8"/>
+<text x="410" y="240" text-anchor="middle" font-size="12" font-weight="600" fill="#fbbf24">Design Product</text>
+<text x="410" y="276" text-anchor="middle" font-size="10px" fill="#8b949e">wenathlan · nasblor</text>
+<line x1="410" y1="254" x2="410" y2="264" stroke="#fbbf24" stroke-width="0.8" opacity="0.4"/>
+
+<rect x="644" y="218" width="100" height="36" rx="10" fill="#7c3aed" opacity="0.08" stroke="#7c3aed" stroke-width="0.8"/>
+<text x="694" y="240" text-anchor="middle" font-size="12" font-weight="600" fill="#7c3aed">Core</text>
+<text x="694" y="276" text-anchor="middle" font-size="10px" fill="#8b949e">wenathlan</text>
+<line x1="694" y1="254" x2="694" y2="264" stroke="#7c3aed" stroke-width="0.8" opacity="0.4"/>
 </svg>

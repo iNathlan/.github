@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/iNathlan/.github/main/profile/windjets/hero.svg" width="900"/>
+  <img src="https://raw.githubusercontent.com/iNathlan/.github/main/profile/windgets/hero.svg" width="900"/>
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=500&height=45&lines=Solutions+%7C+Engineering+%7C+Ventures+%7C+Research;Audio+AI+%7C+Open+Source+%7C+Design+%7C+DevStack;Architecting+tomorrow's+technology+today" alt="Typing"/>
   <br><br>
@@ -11,7 +11,7 @@
   <a href="https://bsky.app/profile/wenathlan"><img src="https://img.shields.io/badge/Bluesky-0285FF?style=flat-square&logo=bluesky&logoColor=white"/></a>&nbsp;&nbsp;
   <a href="https://soundcloud.com/wenathlan"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=flat-square&logo=soundcloud&logoColor=white"/></a>&nbsp;&nbsp;
   <a href="https://reddit.com/u/wenathlan"><img src="https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white"/></a>&nbsp;&nbsp;
-  <a href="https://gitlab.com/akadion"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/></a>
+  <a href="https://gitlab.com/wenathlan"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/></a>
 </div>
 
 <br>
@@ -20,7 +20,7 @@
 
 <h3>✦ WHO WE ARE ✦</h3>
 
-<img src="https://raw.githubusercontent.com/iNathlan/.github/main/profile/windjets/whoami.svg" width="820"/>
+<img src="https://raw.githubusercontent.com/iNathlan/.github/main/profile/windgets/whoami.svg" width="820"/>
 
 </div>
 
@@ -31,7 +31,7 @@
 <h3>✦ STATUS ✦</h3>
 
 <br>
-<img src="https://raw.githubusercontent.com/iNathlan/.github/main/profile/windjets/status.svg" width="820"/>
+<img src="https://raw.githubusercontent.com/iNathlan/.github/main/profile/windgets/status.svg" width="820"/>
 
 </div>
 
@@ -59,17 +59,17 @@
 <h3>✦ PROJECTS ✦</h3>
 
 <br>
-<img src="https://raw.githubusercontent.com/iNathlan/.github/main/profile/windjets/projects1.svg" width="820"/>
+<img src="https://raw.githubusercontent.com/iNathlan/.github/main/profile/windgets/projects1.svg" width="820"/>
 <br>
-<img src="https://raw.githubusercontent.com/iNathlan/.github/main/profile/windjets/projects2.svg" width="820"/>
+<img src="https://raw.githubusercontent.com/iNathlan/.github/main/profile/windgets/projects2.svg" width="820"/>
 <br>
-<img src="https://raw.githubusercontent.com/iNathlan/.github/main/profile/windjets/projects3.svg" width="820"/>
+<img src="https://raw.githubusercontent.com/iNathlan/.github/main/profile/windgets/projects3.svg" width="820"/>
 <br>
-<img src="https://raw.githubusercontent.com/iNathlan/.github/main/profile/windjets/projects4.svg" width="820"/>
+<img src="https://raw.githubusercontent.com/iNathlan/.github/main/profile/windgets/projects4.svg" width="820"/>
 <br>
-<img src="https://raw.githubusercontent.com/iNathlan/.github/main/profile/windjets/projects5.svg" width="820"/>
+<img src="https://raw.githubusercontent.com/iNathlan/.github/main/profile/windgets/projects5.svg" width="820"/>
 <br>
-<img src="https://raw.githubusercontent.com/iNathlan/.github/main/profile/windjets/projects6.svg" width="820"/>
+<img src="https://raw.githubusercontent.com/iNathlan/.github/main/profile/windgets/projects6.svg" width="820"/>
 
 </div>
 
@@ -80,7 +80,7 @@
 <h3>✦ TEAM ✦</h3>
 
 <br>
-<img src="https://raw.githubusercontent.com/iNathlan/.github/main/profile/windjets/team.svg" width="820"/>
+<img src="https://raw.githubusercontent.com/iNathlan/.github/main/profile/windgets/team.svg" width="820"/>
 
 </div>
 
@@ -91,7 +91,7 @@
 <h3>✦ CONNECT ✦</h3>
 
 <br>
-<img src="https://raw.githubusercontent.com/iNathlan/.github/main/profile/windjets/connect.svg" width="820"/>
+<img src="https://raw.githubusercontent.com/iNathlan/.github/main/profile/windgets/connect.svg" width="820"/>
 
 </div>
 
@@ -123,7 +123,7 @@
 
 <br>
 <img src="https://github-profile-trophy.vercel.app/?username=iNathlan&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10&row=1" width="90%"/>
-<img src="https://github-profile-trophy.vercel.app/?username=iakadion&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10&row=2" width="90%"/>
+
 <br><br>
 <img src="https://komarev.com/ghpvc/?username=iNathlan&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0d1117"/>
 
