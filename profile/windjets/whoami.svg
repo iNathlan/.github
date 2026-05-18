@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="820" height="280" viewBox="0 0 820 280">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&amp;display=swap');
+    text { font-family: 'Inter','Segoe UI',system-ui,sans-serif; }
+    .card { fill: #161b22; }
+    .title { font-size: 18px; font-weight: 700; }
+    .item { font-size: 13px; fill: #c9d1d9; }
+  </style>
+  <rect width="820" height="280" rx="16" fill="#0d1117"/>
+  <rect x="16" y="16" width="185" height="248" rx="14" class="card"/>
+  <circle cx="108" cy="48" r="16" fill="#f97316" opacity="0.12"/>
+  <g transform="translate(99,39)">
+    <path d="M3 3l8 8-8 8" stroke="#f97316" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M9 3l8 8-8 8" stroke="#f97316" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.4"/>
+  </g>
+  <text x="108" y="82" text-anchor="middle" class="title" fill="#f97316">Indie Jets</text>
+  <text x="108" y="110" text-anchor="middle" class="item">Game Studio</text>
+  <text x="108" y="132" text-anchor="middle" class="item">Interactive Media</text>
+  <text x="108" y="154" text-anchor="middle" class="item">Creative Engines</text>
+  <text x="108" y="176" text-anchor="middle" class="item">World Building</text>
+  <rect x="217" y="16" width="185" height="248" rx="14" class="card"/>
+  <circle cx="309" cy="48" r="16" fill="#00d4ff" opacity="0.12"/>
+  <g transform="translate(300,39)">
+    <rect x="2" y="2" width="16" height="14" rx="2" stroke="#00d4ff" stroke-width="1.8" fill="none"/>
+    <path d="M6 2v-2M12 2v-2M2 9h16" stroke="#00d4ff" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  </g>
+  <text x="309" y="82" text-anchor="middle" class="title" fill="#00d4ff">Engineering</text>
+  <text x="309" y="110" text-anchor="middle" class="item">Full-Stack Systems</text>
+  <text x="309" y="132" text-anchor="middle" class="item">AI &amp; Neural Engines</text>
+  <text x="309" y="154" text-anchor="middle" class="item">Open Source Tools</text>
+  <text x="309" y="176" text-anchor="middle" class="item">Developer Platforms</text>
+  <rect x="418" y="16" width="185" height="248" rx="14" class="card"/>
+  <circle cx="510" cy="48" r="16" fill="#7c3aed" opacity="0.12"/>
+  <g transform="translate(501,39)">
+    <path d="M9 1l2.5 5 5.5.8-4 3.9 1 5.5L9 13.3l-5 2.9 1-5.5-4-3.9 5.5-.8z" stroke="#7c3aed" stroke-width="1.5" fill="none" stroke-linejoin="round"/>
+  </g>
+  <text x="510" y="82" text-anchor="middle" class="title" fill="#7c3aed">Creative</text>
+  <text x="510" y="110" text-anchor="middle" class="item">Audio &amp; Music AI</text>
+  <text x="510" y="132" text-anchor="middle" class="item">Design Systems</text>
+  <text x="510" y="154" text-anchor="middle" class="item">Visual Language</text>
+  <text x="510" y="176" text-anchor="middle" class="item">Brand Architecture</text>
+  <rect x="619" y="16" width="185" height="248" rx="14" class="card"/>
+  <circle cx="711" cy="48" r="16" fill="#fbbf24" opacity="0.12"/>
+  <g transform="translate(702,39)">
+    <path d="M3 3h14v14H3z" stroke="#fbbf24" stroke-width="1.5" fill="none" rx="2"/>
+    <path d="M3 9h14M9 3v14" stroke="#fbbf24" stroke-width="1.2" fill="none" stroke-linecap="round"/>
+  </g>
+  <text x="711" y="82" text-anchor="middle" class="title" fill="#fbbf24">Ventures</text>
+  <text x="711" y="110" text-anchor="middle" class="item">Autonomous Systems</text>
+  <text x="711" y="132" text-anchor="middle" class="item">Product Pipelines</text>
+  <text x="711" y="154" text-anchor="middle" class="item">Content Generation</text>
+  <text x="711" y="176" text-anchor="middle" class="item">Strategic Growth</text>
+</svg>
