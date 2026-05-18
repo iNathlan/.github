@@ -12,7 +12,7 @@
   <circle cx="143" cy="42" r="18" fill="#1a1a2e" stroke="#EA4C89" stroke-width="1.5"/>
   <circle cx="143" cy="42" r="7" fill="none" stroke="#EA4C89" stroke-width="1.5" stroke-dasharray="3 2"/>
   <circle cx="143" cy="42" r="2.5" fill="#EA4C89"/>
-  <text x="143" y="72" text-anchor="middle" class="porg">iakadion</text>
+  <text x="143" y="72" text-anchor="middle" class="porg">iNathlan</text>
   <text x="143" y="88" text-anchor="middle" class="pname" fill="#EA4C89">NYX</text>
   <text x="143" y="104" text-anchor="middle" class="pdesc">Creative Portfolio Showcase</text>
   <rect x="43" y="116" width="200" height="12" rx="6" fill="#21262d"/>
@@ -22,7 +22,7 @@
   <rect x="283" y="16" width="255" height="158" rx="14" fill="#161b22"/>
   <circle cx="410" cy="42" r="18" fill="#1a1a2e" stroke="#ec4899" stroke-width="1.5"/>
   <path d="M402 34v16l8-8z" fill="#ec4899"/>
-  <text x="410" y="72" text-anchor="middle" class="porg">iakadion</text>
+  <text x="410" y="72" text-anchor="middle" class="porg">iNathlan</text>
   <text x="410" y="88" text-anchor="middle" class="pname" fill="#ec4899">FillShy</text>
   <text x="410" y="104" text-anchor="middle" class="pdesc">Autonomous AI content</text>
   <rect x="310" y="116" width="200" height="12" rx="6" fill="#21262d"/>
@@ -34,7 +34,7 @@
   <path d="M670 36v10l6-5z" fill="#34d399"/>
   <rect x="679" y="38" width="4" height="6" rx="1" fill="#34d399" opacity="0.5"/>
   <rect x="685" y="40" width="4" height="4" rx="1" fill="#34d399" opacity="0.3"/>
-  <text x="677" y="72" text-anchor="middle" class="porg">iakadion</text>
+  <text x="677" y="72" text-anchor="middle" class="porg">iNathlan</text>
   <text x="677" y="88" text-anchor="middle" class="pname" fill="#34d399">Owni</text>
   <text x="677" y="104" text-anchor="middle" class="pdesc">Component &amp; Icon Library</text>
   <rect x="577" y="116" width="200" height="12" rx="6" fill="#21262d"/>
@@ -42,3 +42,4 @@
   <text x="677" y="125" text-anchor="middle" class="pct" fill="#0d1117">60%</text>
   <text x="677" y="150" text-anchor="middle" class="ptag">Web Components · SVG · Design System</text>
 </svg>
+
