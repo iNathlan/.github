@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/iNathlan/.github/main/profile/windjets/hero.svg" width="900"/>
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=500&height=45&lines=Solutions+%7C+Engineering+%7C+Indie+Jets+%7C+Research;Audio+AI+%7C+Open+Source+%7C+Game+Studio+%7C+DevStack;Architecting+tomorrow's+technology+today" alt="Typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=500&height=45&lines=Solutions+%7C+Engineering+%7C+Ventures+%7C+Research;Audio+AI+%7C+Open+Source+%7C+Design+%7C+DevStack;Architecting+tomorrow's+technology+today" alt="Typing"/>
   <br><br>
   <a href="https://github.com/iNathlan"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>&nbsp;&nbsp;
   <a href="https://x.com/wenathlan"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/></a>&nbsp;&nbsp;
@@ -70,6 +70,17 @@
 <img src="https://raw.githubusercontent.com/iNathlan/.github/main/profile/windjets/projects5.svg" width="820"/>
 <br>
 <img src="https://raw.githubusercontent.com/iNathlan/.github/main/profile/windjets/projects6.svg" width="820"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<h3>✦ TEAM ✦</h3>
+
+<br>
+<img src="https://raw.githubusercontent.com/iNathlan/.github/main/profile/windjets/team.svg" width="820"/>
 
 </div>
 
