@@ -10,8 +10,7 @@
     </filter>
   </defs>
   <style>
-    @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;600;700&amp;display=swap');
-    text { font-family: 'Plus Jakarta Sans', system-ui, sans-serif; }
+    text { font-family: 'Segoe UI', system-ui, -apple-system, sans-serif; }
     .status-text { font-size: 13px; font-weight: 600; letter-spacing: 0.5px; }
     .status-sub { font-size: 10px; font-weight: 700; fill: #475569; letter-spacing: 3px; }
     .pill { stroke: url(#pillBorder); stroke-width: 1.5; fill: #0f172a; fill-opacity: 0.4; }

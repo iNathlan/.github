@@ -1,16 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="820" height="300" viewBox="0 0 820 300">
   <defs>
-    <clipPath id="circleClip">
-      <circle cx="0" cy="0" r="32"/>
-    </clipPath>
     <filter id="neonGlow">
       <feGaussianBlur stdDeviation="6" result="blur"/>
       <feComposite in="SourceGraphic" in2="blur" operator="over"/>
     </filter>
   </defs>
   <style>
-    @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;600;700;800&amp;display=swap');
-    text { font-family: 'Plus Jakarta Sans', system-ui, sans-serif; }
+    text { font-family: 'Segoe UI', system-ui, -apple-system, sans-serif; }
     .name { font-size: 16px; font-weight: 800; letter-spacing: -0.5px; }
     .role { font-size: 11px; fill: #94A3B8; font-weight: 600; letter-spacing: 1px; }
     .tag { font-size: 9px; font-weight: 700; letter-spacing: 2px; }
@@ -22,7 +18,7 @@
   <!-- Card 1: wenathlan -->
   <g transform="translate(170, 70)">
     <circle cx="0" cy="0" r="36" fill="none" stroke="#7c3aed" stroke-width="2" filter="url(#neonGlow)" opacity="0.8"/>
-    <image href="https://avatars.githubusercontent.com/wenathlan?v=4" x="-32" y="-32" width="64" height="64" clip-path="url(#circleClip)"/>
+    <text x="0" y="6" text-anchor="middle" font-size="24" font-weight="800" fill="#A855F7" opacity="0.8">W</text>
     <text x="0" y="60" text-anchor="middle" class="name" fill="#F8FAFC">wenathlan</text>
     <text x="0" y="78" text-anchor="middle" class="role">Founder &amp; Architect</text>
     
@@ -33,7 +29,7 @@
   <!-- Card 2: aasblor -->
   <g transform="translate(410, 70)">
     <circle cx="0" cy="0" r="36" fill="none" stroke="#F97316" stroke-width="2" filter="url(#neonGlow)" opacity="0.8"/>
-    <image href="https://avatars.githubusercontent.com/aasblor?v=4" x="-32" y="-32" width="64" height="64" clip-path="url(#circleClip)"/>
+    <text x="0" y="6" text-anchor="middle" font-size="24" font-weight="800" fill="#FB923C" opacity="0.8">A</text>
     <text x="0" y="60" text-anchor="middle" class="name" fill="#F8FAFC">aasblor</text>
     <text x="0" y="78" text-anchor="middle" class="role">Backend Developer</text>
     
@@ -44,7 +40,7 @@
   <!-- Card 3: nasblor -->
   <g transform="translate(650, 70)">
     <circle cx="0" cy="0" r="36" fill="none" stroke="#FBBF24" stroke-width="2" filter="url(#neonGlow)" opacity="0.8"/>
-    <image href="https://avatars.githubusercontent.com/nasblor?v=4" x="-32" y="-32" width="64" height="64" clip-path="url(#circleClip)"/>
+    <text x="0" y="6" text-anchor="middle" font-size="24" font-weight="800" fill="#FCD34D" opacity="0.8">N</text>
     <text x="0" y="60" text-anchor="middle" class="name" fill="#F8FAFC">nasblor</text>
     <text x="0" y="78" text-anchor="middle" class="role">Product Designer</text>
     

@@ -6,9 +6,7 @@
     </filter>
   </defs>
   <style>
-    @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap');
-    text { font-family: 'Plus Jakarta Sans', system-ui, sans-serif !important; }
-    text { font-family: 'Inter','Segoe UI',system-ui,sans-serif; }
+    text { font-family: 'Segoe UI', system-ui, -apple-system, sans-serif; }
     .pname { font-size: 18px; font-weight: 800; letter-spacing: -0.5px; }
     .pdesc { font-size: 12px; fill: #94A3B8; font-weight: 500; }
     .ptag { font-size: 10px; fill: #64748B; font-weight: 600; letter-spacing: 0.5px; }
