@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/iNathlan/.github/main/profile/windgets/hero.svg" width="900"/>
+  <img src="./windgets/hero.svg" width="900"/>
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=500&height=45&lines=Solutions+%7C+Engineering+%7C+Ventures+%7C+Research;Audio+AI+%7C+Open+Source+%7C+Design+%7C+DevStack;Architecting+tomorrow's+technology+today" alt="Typing"/>
   <br><br>
@@ -20,7 +20,7 @@
 
 <h3>✦ WHO WE ARE ✦</h3>
 
-<img src="https://raw.githubusercontent.com/iNathlan/.github/main/profile/windgets/whoami.svg" width="820"/>
+<img src="./windgets/whoami.svg" width="820"/>
 
 </div>
 
@@ -31,7 +31,7 @@
 <h3>✦ STATUS ✦</h3>
 
 <br>
-<img src="https://raw.githubusercontent.com/iNathlan/.github/main/profile/windgets/status.svg" width="820"/>
+<img src="./windgets/status.svg" width="820"/>
 
 </div>
 
@@ -59,17 +59,17 @@
 <h3>✦ PROJECTS ✦</h3>
 
 <br>
-<img src="https://raw.githubusercontent.com/iNathlan/.github/main/profile/windgets/projects1.svg" width="820"/>
+<img src="./windgets/projects1.svg" width="820"/>
 <br>
-<img src="https://raw.githubusercontent.com/iNathlan/.github/main/profile/windgets/projects2.svg" width="820"/>
+<img src="./windgets/projects2.svg" width="820"/>
 <br>
-<img src="https://raw.githubusercontent.com/iNathlan/.github/main/profile/windgets/projects3.svg" width="820"/>
+<img src="./windgets/projects3.svg" width="820"/>
 <br>
-<img src="https://raw.githubusercontent.com/iNathlan/.github/main/profile/windgets/projects4.svg" width="820"/>
+<img src="./windgets/projects4.svg" width="820"/>
 <br>
-<img src="https://raw.githubusercontent.com/iNathlan/.github/main/profile/windgets/projects5.svg" width="820"/>
+<img src="./windgets/projects5.svg" width="820"/>
 <br>
-<img src="https://raw.githubusercontent.com/iNathlan/.github/main/profile/windgets/projects6.svg" width="820"/>
+<img src="./windgets/projects6.svg" width="820"/>
 
 </div>
 
@@ -80,7 +80,7 @@
 <h3>✦ TEAM ✦</h3>
 
 <br>
-<img src="https://raw.githubusercontent.com/iNathlan/.github/main/profile/windgets/team.svg" width="820"/>
+<img src="./windgets/team.svg" width="820"/>
 
 </div>
 
@@ -91,7 +91,7 @@
 <h3>✦ CONNECT ✦</h3>
 
 <br>
-<img src="https://raw.githubusercontent.com/iNathlan/.github/main/profile/windgets/connect.svg" width="820"/>
+<img src="./windgets/connect.svg" width="820"/>
 
 </div>
 
@@ -102,10 +102,10 @@
 <h3>✦ GITHUB STATS ✦</h3>
 
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=iNathlan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&icon_color=58a6ff&ring_color=00d4ff" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iNathlan&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=iNathlan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=00000000&title_color=00d4ff&text_color=c9d1d9&icon_color=58a6ff&ring_color=00d4ff" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iNathlan&theme=tokyonight&hide_border=true&layout=compact&bg_color=00000000&title_color=00d4ff&text_color=c9d1d9" width="40%"/>
 <br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iNathlan&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=f97316&currStreakLabel=00d4ff&sideLabels=58a6ff&dates=c9d1d9" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iNathlan&theme=tokyonight&hide_border=true&background=00000000&stroke=00d4ff&ring=00d4ff&fire=f97316&currStreakLabel=00d4ff&sideLabels=58a6ff&dates=c9d1d9" width="60%"/>
 
 </div>
 

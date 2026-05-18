@@ -12,10 +12,10 @@
     .team-label { font-size: 9.5px; font-weight: 600; letter-spacing: 1px; }
     .handle { font-size: 10px; fill: #484f58; font-weight: 500; }
   </style>
-  <rect width="820" height="300" rx="16" fill="#0d1117"/>
+  <rect width="820" height="300" rx="16" fill="transparent"/>
 
   <!-- Card 1: wenathlan -->
-  <rect x="120" y="16" width="185" height="148" rx="14" fill="#161b22"/>
+  <rect x="120" y="16" width="185" height="148" rx="14" fill="transparent"/>
   <circle cx="212.5" cy="52" r="28" fill="#7c3aed" opacity="0.15"/>
   <image href="https://avatars.githubusercontent.com/wenathlan?v=4" x="184.5" y="24" width="56" height="56" clip-path="url(#circleClip)"/>
   <text x="212.5" y="100" text-anchor="middle" class="name" fill="#7c3aed">wenathlan</text>
@@ -27,7 +27,7 @@
   <text x="212.5" y="154" text-anchor="middle" class="handle">@wenathlan</text>
 
   <!-- Card 2: aasblor -->
-  <rect x="318" y="16" width="185" height="148" rx="14" fill="#161b22"/>
+  <rect x="318" y="16" width="185" height="148" rx="14" fill="transparent"/>
   <circle cx="410.5" cy="52" r="28" fill="#f97316" opacity="0.15"/>
   <image href="https://avatars.githubusercontent.com/aasblor?v=4" x="382.5" y="24" width="56" height="56" clip-path="url(#circleClip)"/>
   <text x="410.5" y="100" text-anchor="middle" class="name" fill="#f97316">aasblor</text>
@@ -37,7 +37,7 @@
   <text x="410.5" y="154" text-anchor="middle" class="handle">@aasblor</text>
 
   <!-- Card 3: nasblor -->
-  <rect x="516" y="16" width="185" height="148" rx="14" fill="#161b22"/>
+  <rect x="516" y="16" width="185" height="148" rx="14" fill="transparent"/>
   <circle cx="608.5" cy="52" r="28" fill="#fbbf24" opacity="0.15"/>
   <image href="https://avatars.githubusercontent.com/nasblor?v=4" x="580.5" y="24" width="56" height="56" clip-path="url(#circleClip)"/>
   <text x="608.5" y="100" text-anchor="middle" class="name" fill="#fbbf24">nasblor</text>
@@ -47,7 +47,7 @@
   <text x="608.5" y="154" text-anchor="middle" class="handle">@nasblor</text>
 
   <!-- Org Structure -->
-  <rect x="16" y="180" width="788" height="104" rx="14" fill="#161b22"/>
+  <rect x="16" y="180" width="788" height="104" rx="14" fill="transparent"/>
   <text x="410" y="208" text-anchor="middle" font-size="13" font-weight="700" letter-spacing="2" fill="#58a6ff">ORG STRUCTURE</text>
 
   <rect x="56" y="218" width="120" height="36" rx="10" fill="#00d4ff" opacity="0.08" stroke="#00d4ff" stroke-width="0.8"/>

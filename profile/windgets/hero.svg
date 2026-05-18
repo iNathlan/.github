@@ -17,7 +17,7 @@
       <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
   </defs>
-  <rect width="900" height="260" fill="#0d1117"/>
+  <rect width="900" height="260" fill="transparent"/>
   <g filter="url(#softglow)">
     <circle cx="450" cy="80" r="55" fill="none" stroke="url(#hg1)" stroke-width="0.8" opacity="0.2">
       <animate attributeName="r" values="55;65;55" dur="6s" repeatCount="indefinite"/>

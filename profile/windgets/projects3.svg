@@ -7,8 +7,8 @@
     .pct { font-size: 10px; font-weight: 700; }
     .porg { font-size: 9px; fill: #484f58; font-weight: 600; letter-spacing: 1px; }
   </style>
-  <rect width="820" height="230" rx="16" fill="#0d1117"/>
-  <rect x="16" y="16" width="255" height="198" rx="14" fill="#161b22"/>
+  <rect width="820" height="230" rx="16" fill="transparent"/>
+  <rect x="16" y="16" width="255" height="198" rx="14" fill="transparent"/>
   <circle cx="143" cy="50" r="20" fill="#1a1a2e" stroke="#00d4ff" stroke-width="1.5"/>
   <text x="143" y="50" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="800" fill="#00d4ff">{ }</text>
   <text x="143" y="82" text-anchor="middle" class="porg">iNathlan</text>
@@ -17,9 +17,9 @@
   <text x="143" y="134" text-anchor="middle" class="pdesc">40+ languages in browser</text>
   <rect x="43" y="152" width="200" height="12" rx="6" fill="#21262d"/>
   <rect x="43" y="152" width="170" height="12" rx="6" fill="#00d4ff" opacity="0.7"/>
-  <text x="143" y="161" text-anchor="middle" class="pct" fill="#0d1117">85%</text>
+  <text x="143" y="161" text-anchor="middle" class="pct" fill="transparent">85%</text>
   <text x="143" y="183" text-anchor="middle" class="ptag">JavaScript · Transpiler · Framework</text>
-  <rect x="283" y="16" width="255" height="198" rx="14" fill="#161b22"/>
+  <rect x="283" y="16" width="255" height="198" rx="14" fill="transparent"/>
   <circle cx="410" cy="50" r="20" fill="#1a1a2e" stroke="#fbbf24" stroke-width="1.5"/>
   <text x="410" y="50" text-anchor="middle" dominant-baseline="central" font-size="9" font-weight="800" fill="#fbbf24">.ak</text>
   <text x="410" y="82" text-anchor="middle" class="porg">iNathlan</text>
@@ -28,9 +28,9 @@
   <text x="410" y="134" text-anchor="middle" class="pdesc">Native compiler design</text>
   <rect x="310" y="152" width="200" height="12" rx="6" fill="#21262d"/>
   <rect x="310" y="152" width="176" height="12" rx="6" fill="#fbbf24" opacity="0.7"/>
-  <text x="410" y="161" text-anchor="middle" class="pct" fill="#0d1117">88%</text>
+  <text x="410" y="161" text-anchor="middle" class="pct" fill="transparent">88%</text>
   <text x="410" y="183" text-anchor="middle" class="ptag">Compiler · Native · Web</text>
-  <rect x="550" y="16" width="255" height="198" rx="14" fill="#161b22"/>
+  <rect x="550" y="16" width="255" height="198" rx="14" fill="transparent"/>
   <circle cx="677" cy="50" r="20" fill="#1a1a2e" stroke="#4ecdc4" stroke-width="1.5"/>
   <path d="M669 42l8 8-8 8" fill="none" stroke="#4ecdc4" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
   <path d="M677 42h4a4 4 0 0 1 0 8h-4" fill="none" stroke="#4ecdc4" stroke-width="2" stroke-linecap="round"/>
@@ -40,7 +40,7 @@
   <text x="677" y="134" text-anchor="middle" class="pdesc">Autonomous agent system</text>
   <rect x="577" y="152" width="200" height="12" rx="6" fill="#21262d"/>
   <rect x="577" y="152" width="164" height="12" rx="6" fill="#4ecdc4" opacity="0.7"/>
-  <text x="677" y="161" text-anchor="middle" class="pct" fill="#0d1117">82%</text>
+  <text x="677" y="161" text-anchor="middle" class="pct" fill="transparent">82%</text>
   <text x="677" y="183" text-anchor="middle" class="ptag">React · TypeScript · AI</text>
 </svg>
 
